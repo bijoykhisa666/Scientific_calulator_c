@@ -85,4 +85,3 @@ This project provides practical experience with:
 - Add calculation history
 
 
-This project is available for educational and learning purposes. Add a specific open-source license if you intend to distribute it under particular terms.
